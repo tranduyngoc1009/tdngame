@@ -11,6 +11,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d44b17e136d09081da1e8fd0e8c83fde60e11818b9f2442d7ed8cb733fae895e/System.Collections.Generic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Editor/MultiSongAssetGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Editor/SongManagerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Scripts/BlackPianoKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Scripts/FallingNote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Scripts/PianoGameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Scripts/PianoInputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Scripts/PianoKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Games/Piano/Scripts/PianoUIGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@2436e68c60c4/InputSystem/Runtime/Plugins/PlayerInput/PlayerInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@00a2945f1a91/Runtime/UnityLiveContentAdapter/Client/Http/JsonHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@00a2945f1a91/Runtime/UnityPaymentProviders/Client/Http/JsonHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.services.core@3464cb68d709/Editor/Core/Environments/Client/Http/JsonHelpers.cs" root0="SKIP_HIGHLIGHTING" />
@@ -90,7 +100,12 @@
       <updated>1793982457963</updated>
       <workItem from="1793982459469" duration="1307000" />
       <workItem from="1793986474613" duration="1355000" />
-      <workItem from="1794009474589" duration="603000" />
+      <workItem from="1794009474589" duration="1238000" />
+      <workItem from="1794110939559" duration="8986000" />
+      <workItem from="1794204058896" duration="11258000" />
+      <workItem from="1794232874116" duration="2205000" />
+      <workItem from="1794278737355" duration="4602000" />
+      <workItem from="1794367597533" duration="12281000" />
     </task>
     <servers />
   </component>
